@@ -10,7 +10,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "images/rlabs-lamp.png",
+  "icon": "./images/RLabs-Lamp.png",
   "contributes": {
     "themes": [
       {
