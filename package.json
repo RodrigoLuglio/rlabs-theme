@@ -3,7 +3,7 @@
   "displayName": "RLabs color theme",
   "description": "VSCode theme from RLabs Inc.",
   "version": "0.0.1",
-  "publisher": "RLabs Inc.",
+  "publisher": "RLabsInc",
   "engines": {
     "vscode": "^1.64.0"
   },
