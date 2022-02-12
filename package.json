@@ -1,0 +1,22 @@
+{
+  "name": "rlabs-theme",
+  "displayName": "rlabs-theme",
+  "description": "VSCode theme from RLabs Inc.",
+  "version": "0.0.1-alpha",
+  "publisher": "RLabsInc",
+  "engines": {
+    "vscode": "^1.64.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "RLabs Syntax Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RLabs Syntax Theme-color-theme.json"
+      }
+    ]
+  }
+}
