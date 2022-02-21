@@ -107,7 +107,7 @@
     "editorMarkerNavigation.background": "#171717",
 
     // HIGHLIGHTS
-    "editor.lineHighlightBorder": "#778b77",
+    "editor.lineHighlightBorder": "#778b770c",
     "editor.rangeHighlightBackground": "#9dc59c15",
     "editor.hoverHighlightBackground": "#ac957650",
     "editor.selectionBackground": "#65796579",
