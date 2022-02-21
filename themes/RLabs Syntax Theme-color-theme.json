@@ -1191,7 +1191,8 @@
     {
       "scope": ["keyword.control.new", "keyword.operator.new"],
       "settings": {
-        "fontStyle": "bold"
+        "foreground": "#cf3c3c"
+        // "fontStyle": "bold"
       }
     },
 
@@ -1207,7 +1208,11 @@
         "support.variable.property",
         "keyword.control.flow",
         "keyword.control.loop",
-        "keyword.control.conditional"
+        "keyword.control.conditional",
+        "keyword.operator.logical",
+        "keyword.operator.relational",
+        "keyword.operator.comparison",
+        "keyword.operator.ternary"
       ],
       "settings": {
         "foreground": "#cf3c3c"
